@@ -1,0 +1,135 @@
+*{
+	margin:0px;
+	padding:opx;
+	box-sizing:border-box;
+}
+body{
+	font-family: "poppins", sans-serif;
+}
+.t-main{
+	padding:20px;
+	background-color:#F9FAFB;
+}
+.t-container{
+	width:1140px;
+	background-color:#F9FAFB;
+}
+.t-head{
+	text-align:center;
+	background-color:#F9FAFB;
+	padding-bottom:30px;
+	font-size:40px;
+}
+.t-team1{
+	display:flex;
+	flex-wrap:wrap;
+	
+
+}
+.t-team2{
+	display:flex;
+	flex-wrap:wrap;
+
+}
+.t-team-content1{
+	width:50%;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:#ffffff;
+}
+.t-team-content2{
+	width:50%;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:#ffffff;
+}
+.t-team-content-left{
+	width:50%;
+	
+	
+}
+.t-team-content-right{
+	width:50%;
+	
+}
+.left-left{
+	display:flex;
+}
+.pic{
+	width:50%;
+	
+	
+}
+.pic img{
+	width:100%;
+	height:auto;
+}
+.left-content{
+	width:50%;
+	padding-left:20px;
+}
+.left-content h1{
+	padding-bottom:15px;
+	padding-top:15px;
+}
+.left-content h4{
+	padding-bottom:15px;
+}
+.left-icon{
+	padding-top:20px;
+}
+.foot-box{
+	background-color:pink;
+}
+.foot-content{
+	display:flex;
+	flex-wrap:wrap;
+	
+}
+.foot-content li{
+	list-style:none;
+}
+.foot1{
+	width:25%;
+	padding:20px;
+}
+.apple{
+	display:flex;
+}
+.apple i{
+	font-size:30px;
+}
+.playstore{
+	display:flex;
+}
+.playstore i{
+	font-size:30px;
+}
+.app{
+	padding-left:20px;
+}
+.foot1 h1{
+	
+	
+}
+.foot2{
+	width:25%;
+	padding:20px;
+}
+.foot2 h1{
+	padding-left:40px;
+}
+.foot3{
+	width:25%;
+	padding:20px;
+}
+.foot3 h1{
+	padding-left:40px;
+}
+.foot4{
+	width:25%;
+	padding:20px;
+}
+.foot4 h1{
+	padding-left:40px;
+}
